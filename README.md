@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Codewars](https://www.codewars.com/users/turbo_ruby/badges/large)
+![Codewars](https://www.codewars.com/users/ShagyRGA/badges/large)
 
 <!--
 **ShaggyRGA/ShaggyRGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
